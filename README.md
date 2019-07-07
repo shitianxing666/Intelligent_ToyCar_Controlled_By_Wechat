@@ -5,7 +5,8 @@
 * Link Library 
 > - wxpy 
 > - baidu_aip
-> - RPI.GPIO
+> - RPi.GPIO
+<br>
 <br>
  
  
