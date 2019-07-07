@@ -4,12 +4,13 @@
 
 * Link Library 
 > - wxpy 
-> - baidu_aip <br>
-
-
-
+> - baidu_aip
+> - RPI.GPIO
+<br>
+ 
+ 
 ## Tutorials
-### * wxpy and tuling API 
+### wxpy and tuling API 
 * First, a small demo is used to introduce the simple use of ***wxpy*** and ***Tuling API***. <br>
 * A few short lines of code are used to realize the automatic reply of Wechat. <br>
 * [More about tuling API](https://www.kancloud.cn/turing/www-tuling123-com/718227)
@@ -25,7 +26,7 @@ def auto_reply(msg):
     tuling.do_reply(msg)
 embed()
 ```
-### * baidu_aip
+### baidu_aip
 * Then introduce Baidu Speech Recognition SDK ,its official examples are as follows.<br>
 * [Relevant documents](http://ai.baidu.com/docs#/ASR-Online-Python-SDK/top)
 ```
